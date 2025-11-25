@@ -1,0 +1,5 @@
+{
+  "name": "Narrative Splitter AI",
+  "description": "An intelligent tool that extracts distinct stories from long narratives using Gemini AI.",
+  "requestFramePermissions": []
+}
